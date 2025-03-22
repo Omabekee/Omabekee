@@ -21,5 +21,5 @@ I am Chioma Onyido. Currently, I'm...
 
 ### Writing & Resources
 - Occasionally, I write articles to help beginners and share my journey on [LinkedIn](https://www.linkedin.com/in/chioma-onyido/).
-🔗 Read about my article on [Docker](https://www.linkedin.com/pulse/mastering-docker-guide-containerizing-tools-chioma-onyido-tgw8f/?trackingId=2cKv1mWBQrOmS%2BH61l%2FLbg%3D%3D)
+- 🔗 Read about my article on [Docker](https://www.linkedin.com/pulse/mastering-docker-guide-containerizing-tools-chioma-onyido-tgw8f/?trackingId=2cKv1mWBQrOmS%2BH61l%2FLbg%3D%3D)
 ---
