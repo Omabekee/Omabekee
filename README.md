@@ -1,7 +1,6 @@
 ## Hello there! 👋🏾
 
 I am Chioma Onyido. Currently, I'm...
-  - PhDing at Covenant University.
   - Working on improving disease risk prediction models for underrepresented populations.
   - Developing benchmarking frameworks and integrating machine learning algorithms.
   
