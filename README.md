@@ -3,7 +3,7 @@
 **Bioinformatician · Microbial Genomics Researcher · Educator**
 
 <p align="center">
-  <a href="https://hub.docker.com/u/chiomab"><img src="assets/docker-pulls.svg" alt="Docker Hub pulls across my genomics images" width="420"></a>
+     <a href="https://hub.docker.com/u/chiomab"><img src="docker-pulls.svg" alt="Docker Hub pulls across my genomics images" width="420"></a>
 </p>
 
 ### Research interests
@@ -36,8 +36,11 @@
 </div>
 
 **Workflows:** Nextflow · Galaxy · Docker · Apptainer · HPC
+
 **Data:** SQL · DuckDB · Apache Parquet · FASTA · GFF3
+
 **Genome annotation:** Bakta · AMRFinderPlus · Kleborate · PlasmidFinder · JBrowse · Ensembl
+
 **Quality:** pytest · continuous integration · provenance lockfiles · output-consistency benchmarking
 
 ---
