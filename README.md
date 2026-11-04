@@ -2,9 +2,7 @@
 
 ## Bioinformatician · Microbial Genomics Researcher · Educator
 
-<p align="center">
-     <a href="https://hub.docker.com/u/chiomab"><img src="docker-pulls.svg" alt="Docker Hub pulls across my genomics images" width="420"></a>
-</p>
+   <a href="https://hub.docker.com/u/chiomab"><img src="docker-pulls.svg" align="right" width="340" alt="Docker Hub pulls across my genomics images"></a>
 
 ### Research interests
 
