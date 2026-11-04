@@ -18,7 +18,7 @@
 
 ### Featured work
 
-| Project | What it does | Built with |
+| Project | Description | Built with |
 |---|---|---|
 | [**KlebTrace**](https://github.com/Omabekee/KlebTrace) | Annotates *Klebsiella pneumoniae* genomes from the EMBL-EBI AMR Portal with taxon-specific tools, loads results into a quality-checked database and assesses what each tool adds to Ensembl. [Read the report](https://github.com/Omabekee/KlebTrace/blob/main/docs/report.md). | Nextflow, Apptainer, Python, DuckDB, Parquet, SQLite, pytest, GitHub Actions |
 | [**Bench-PRS Dock**](https://github.com/Omabekee/Bench-PRS-Dock) | Self-documenting, self-verifying Docker images for ten multi-ancestry polygenic risk score tools, benchmarked across native, Docker and Apptainer (HPC) execution. | Docker, Apptainer, Python, R |
