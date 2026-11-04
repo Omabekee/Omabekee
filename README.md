@@ -1,8 +1,7 @@
-# Chioma B Oselu
-
 ## Bioinformatician · Microbial Genomics Researcher · Educator
 
    <a href="https://hub.docker.com/u/chiomab"><img src="docker-pulls.svg" align="right" width="340" alt="Docker Hub pulls across my genomics images"></a>
+[Docker Hub](https://hub.docker.com/u/chiomab)
 
 ### Research interests
 
